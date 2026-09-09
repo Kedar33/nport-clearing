@@ -80,5 +80,4 @@ DERA archives.
 
 ## Citation
 
-> Sahu, K. (2026). *All or Nothing: Central Clearing in the US Fund Industry.*
-> Working paper.
+
